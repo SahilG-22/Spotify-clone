@@ -1,0 +1,1 @@
+This is a clone of a popular music streaming service SPOTIFY. This repository contains the code for the frontend of the website of spotify, the code is comprised of HTML and CSS making it easy to understand and fun to code.
